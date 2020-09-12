@@ -3,7 +3,7 @@ import win32gui
 import win32con
 import tkinter as tk
 from tkinter import ttk
-import ctypes.windll
+import ctypes
 import ctypes.wintypes
 import base64
 from PIL import Image, ImageTk
